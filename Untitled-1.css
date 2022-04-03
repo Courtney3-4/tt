@@ -1,4 +1,10 @@
-.h1{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-style: oblique; font-size: 75px; padding-top: 40rem, 40rem; text-align: right;}
-.H2{break-after: font-size 45px; }
-.h2{ font-family: Verdana, Geneva, Tahoma, sans-serif; font-style: inherit; padding-left: 100px;}
-.body{background-color: lightblue;}
+h1{font-family: Georgia, Times, 'Times New Roman', serif; font-style: oblique; font-size: 75px; padding-top: 40rem text-align: right;}
+H2{break-after: font-size 45px; }
+#h2{ font-family: Verdana, Geneva, Tahoma, sans-serif; font-style: inherit; padding-left: 100px;}
+.body{color: rgb(23, 3, 97);}
+
+.card{ color: grey; background-color: bisque; padding-left: 10px;}
+.b2{ background-color: rgb(229, 255, 0)}
+h5{font-family: Georgia, Times, 'Times New Roman', serif; font-style: oblique; font-size: 75px; padding-top: 40rem, text-align: right; }
+.title{padding: 2% 50% 0% 0%; animation: forwards; position: fixed; position: center;}
+.s{border-image-width: 50%;}
