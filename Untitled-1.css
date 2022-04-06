@@ -1,7 +1,7 @@
 .sc{ padding-top: 15rem; padding-bottom: 10rem; height: 29rem; width: 29rem; animation: forwards;}
 .h1{align-content: stretch; animation: normal;}
 .pictur{ height: 29rem; }
-.card-group{ column-count: 3;  text-decoration: dimgray;}
+.card-group{column-count: 3;  text-decoration: dimgray;}
 .w{ height: 29rem;}
 .title{ text-align: center; transition-timing-function: ease-in linear;}
 .bt{ flood-color: blue;}
