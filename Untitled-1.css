@@ -1,10 +1,7 @@
-h1{font-family: Georgia, Times, 'Times New Roman', serif; font-style: oblique; font-size: 75px; padding-top: 40rem text-align: right;}
-H2{break-after: font-size 45px; }
-#h2{ font-family: Verdana, Geneva, Tahoma, sans-serif; font-style: inherit; padding-left: 100px;}
-.body{color: rgb(23, 3, 97);}
-
-.card{ color: grey; background-color: bisque; padding-left: 10px;}
-.b2{ background-color: rgb(229, 255, 0)}
-h5{font-family: Georgia, Times, 'Times New Roman', serif; font-style: oblique; font-size: 75px; padding-top: 40rem, text-align: right; }
-.title{padding: 2% 50% 0% 0%; animation: forwards; position: fixed; position: center;}
-.s{border-image-width: 50%;}
+.sc{ padding-top: 15rem; padding-bottom: 10rem; height: 29rem; width: 29rem; animation: forwards;}
+.h1{align-content: stretch; animation: normal;}
+.pictur{ height: 29rem; }
+.card-group{ column-count: 3;  text-decoration: dimgray;}
+.w{ height: 29rem;}
+.title{ text-align: center; transition-timing-function: ease-in linear;}
+.b2{ background-color: blue;}
