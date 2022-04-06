@@ -1,9 +1,13 @@
-var a= "body";
-newFunction( a= ".bt");
+newFunction();
 
 
 
 
  
  
+
+function newFunction() {
+    var a = ".cn";
+    Function; dd(a = ".bt");
+}
 
