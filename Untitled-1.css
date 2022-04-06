@@ -4,4 +4,4 @@
 .card-group{ column-count: 3;  text-decoration: dimgray;}
 .w{ height: 29rem;}
 .title{ text-align: center; transition-timing-function: ease-in linear;}
-.bt{ background-color: blue;}
+.bt{ flood-color: blue;}

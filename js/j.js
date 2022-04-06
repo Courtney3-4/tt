@@ -1,6 +1,5 @@
-HTMLBodyElement
-var a=".body"
-newFunction( a=".bt");
+var a= "body";
+newFunction( a= ".bt");
 
 
 
