@@ -1,3 +1,3 @@
-$(h1)(CSS)(backgroundcolor:blue);
-}
+$(h1)(CSS)(background-color:blue);
+
 
