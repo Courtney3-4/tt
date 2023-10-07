@@ -1,13 +1,3 @@
-newFunction();
-
-
-
-
- 
- 
-
-function newFunction() {
-    var a = ".cn";
-    Function; dd(a = ".bt");
+$(.h1)(CSS)(backgroundcolor:blue);
 }
 
