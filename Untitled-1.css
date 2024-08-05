@@ -1,7 +1,8 @@
 .sc{ padding-top: 15rem; padding-bottom: 10rem; height: 29rem; width: 29rem; animation: forwards;}
+.container { display: flex; gap: 20px; background-color: aqua;}
 .h1{align-content: stretch; animation: normal; background-color: aquamarine;}
 .pictur{ height: 29rem; }
-.card-group{column-count: 3;  text-decoration: dimgray;}
+.card-groupd{ display: flex;  text-decoration: dimgray;}
 .w{ height: 29rem;}
 .title{ text-align: center; transition-timing-function: ease-in linear;}
 .bt{ flood-color: blue;}
